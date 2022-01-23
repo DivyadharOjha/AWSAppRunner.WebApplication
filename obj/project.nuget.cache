@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xrX/xTts4tMCOE0jAQdWzu01rAZ7gXYnFom2W3bPcJmxXMyHjEjqj6YD5EKk/4/38XEULNsV4yD8aRCPX3TlmQ==",
+  "success": true,
+  "projectFilePath": "E:\\AWS Tutorial && Programmes\\AWSAppRunner\\AWSAppRunner.WebApplication\\AWSAppRunner.WebApplication\\AWSAppRunner.WebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\divya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
